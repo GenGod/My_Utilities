@@ -1,0 +1,9 @@
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\bin\Debug\My Utilities.exe.config
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My Utilities.csprojResolveAssemblyReference.cache
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My_Utilities.MainForm.resources
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My_Utilities.Properties.Resources.resources
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My Utilities.csproj.GenerateResource.Cache
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\bin\Debug\My Utilities.exe
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\bin\Debug\My Utilities.pdb
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My Utilities.exe
+c:\users\gener\onedrive\документы\visual studio 2015\Projects\My Utilities\My Utilities\obj\Debug\My Utilities.pdb
